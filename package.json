@@ -1,0 +1,11 @@
+{
+  "name": "yarn-sigterm-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mprast/yarn-sigterm-repro.git",
+  "author": "Matthew Prast <mprast@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^0.12.1"
+  }
+}
